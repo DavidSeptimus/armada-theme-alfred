@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#000000C4",
+        "font" : "System",
+        "color" : "#999999FF"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#999999FF"
+      },
+      "backgroundSelected" : "#C3DBF6FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "roundness" : 12,
+      "paddingVertical" : 5,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#C3DBF6FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 5,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#000000FF"
+      },
+      "background" : "#F8F8F9FF",
+      "roundness" : 4,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#F8F8F9FF",
+      "paddingHorizontal" : 17,
+      "width" : 500,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 8
+    },
+    "credit" : "David Septimus",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#C6C6C6FF",
+      "thickness" : 7
+    },
+    "name" : "Armada Light"
+  }
+}
